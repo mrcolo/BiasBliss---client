@@ -1,0 +1,21 @@
+{
+  "name": "fakenews",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "npm": "^6.0.0",
+    "rc-progress": "^2.2.5",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4",
+    "reactstrap": "^5.0.0",
+    "semantic-ui-react": "^0.79.1",
+    "valid-url": "^1.0.9"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

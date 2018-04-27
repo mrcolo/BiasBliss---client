@@ -1,0 +1,7 @@
+.title {
+  font-family: 'Abril-Fatface';
+  font-size: 80px;
+  src: local('Abril-Fatface'), url(./Abril-Fatface.otf) format('otf');
+//  color: white;
+}
+
